@@ -7,6 +7,11 @@
 
 **C.A.S.T.** is an autonomous, agentic PR monitoring platform designed for high-stakes film campaigns. It leverages Google Vertex AI, Native Web Grounding, and Firestore to track real-time sentiment, detect PR crises before they blow up, and autonomously generate strategic pivot recommendations that require executive governance to approve.
 
+> [!TIP]
+> **Demo Access:** You can log into the live platform using the following test executive credentials:
+> - **Email:** `exec@test.com`
+> - **Password:** `password123`
+
 ## 🧠 System Architecture Mind Map
 
 ```mermaid
